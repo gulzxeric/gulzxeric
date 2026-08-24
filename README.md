@@ -24,8 +24,8 @@ An Applied Data Science student at HKSYU, passionate about **AI Full-Stack Devel
 
 ### 🌟 Featured Repositories
 *💡 Check out my pinned repositories below for full code implementations!*
-- **[NanoGPT Implementation]** - Building and optimizing a minified GPT model from scratch using PyTorch.
-- **[AI-Driven Game Project]** - A full-stack game prototype integrating GenAI features with a responsive Vue.js frontend.
+- **NanoGPT Implementation** - Building and optimizing a minified GPT model from scratch using PyTorch.
+- **AI-Driven Game Project** - A full-stack game prototype integrating GenAI features with a responsive Vue.js frontend.
 
 ---
 
